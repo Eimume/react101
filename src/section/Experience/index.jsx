@@ -27,10 +27,10 @@ const Experience = () => {
                     <Picture picture={picExp} title="Fullstack" />
                 </div>
                 <div className="grid gap-y-4">
-                    <TitleLink isHighlight={isMouseEnter['exp1']} title="Fullstack" link="https://github.com/suriyapi/react101" />
+                    <TitleLink isHighlight={isMouseEnter['exp1']} title="Fullstack" link="https://github.com/Eimume/react101" />
                     <div className="flex gap-4 text-xl" >
-                        <Material icon={faGithub} link="https://github.com/suriyapi/react101" />
-                        <Material icon={faYoutube} link="https://www.youtube.com/@suriyapi" />
+                        <Material icon={faGithub} link="https://github.com/Eimume/react101" />
+                        <Material icon={faYoutube} link="https://www.youtube.com/@eimume3643" />
                     </div>
                     <Description description="Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers." />
                     
